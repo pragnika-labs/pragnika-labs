@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Pragnika 👋
 
-<!--
-**pragnika-labs/pragnika-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate with a strong interest in data analytics and behavioral analysis.
 
-Here are some ideas to get you started:
+I enjoy working on projects that explore patterns in real-world behavior, combining exploratory data analysis, visualization, and thoughtful data design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **Audio Aura** – Behavioral analysis of music listening patterns using synthetic data  
+- **Valorant Agent Analysis** – Exploratory data analysis using real Valorant gameplay data to analyze the player performance metrics and gameplay outcomes
+
+
+🔗 Blog: https://pragnika.hashnode.dev  
+🔗 LinkedIn: https://www.linkedin.com/in/pragnika-mancholaa
